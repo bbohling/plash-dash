@@ -1,0 +1,17 @@
+footer {
+  position: absolute;
+  bottom: 50px;
+  left: 50px;
+}
+
+.metricValue {
+  font-size: 85%;
+  font-weight: 800;
+  color: var(--font-color);
+}
+
+.metric {
+  font-size: 65%;
+  font-weight: 300;
+  color: var(--font-color);
+}
