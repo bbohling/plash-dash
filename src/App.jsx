@@ -49,7 +49,7 @@ function App() {
     if (percentDone > 75) {
       color = 'rgb(255,193,7)';
     }
-    if (percentDone === 100) {
+    if (percentDone >= 100) {
       color = 'rgb(25, 135, 84)';
     }
     return color;
