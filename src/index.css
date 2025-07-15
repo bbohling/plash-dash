@@ -1,5 +1,6 @@
 :root {
-  --font-color: rgba(0, 0, 0, 0.8);
+/*   --font-color: rgba(0, 0, 0, 0.8); */
+  --font-color: rgba(255, 255, 255, 0.8);
 
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
